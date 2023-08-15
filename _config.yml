@@ -437,7 +437,7 @@ changyan:
 gitalk:
   enable: true
   clientID: Iv1.e614cd7c82a20562
-  clientSecret: 97e1d44a2631374719bdaf3e973e5cd1912859ce 
+  clientSecret: c0b7167dd41bc9ac2815ac0eb8f3528ec673c78a 
   repo: qdk0901.github.io
   owner: qdk0901
   admin: qdk0901
