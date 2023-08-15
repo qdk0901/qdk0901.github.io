@@ -436,8 +436,8 @@ changyan:
 # Support for gitalk comments system.
 gitalk:
   enable: true
-  clientID: Iv1.e614cd7c82a20562
-  clientSecret: c0b7167dd41bc9ac2815ac0eb8f3528ec673c78a 
+  clientID: 4b6e5f33ae7b045f7680
+  clientSecret: ad0071e050789d1bce27bfc5f82c40d4f0ea40c7 
   repo: qdk0901.github.io
   owner: qdk0901
   admin: qdk0901
