@@ -40,7 +40,7 @@ tags:
   ![alt text](/assets/images/image-9.png)
 
   - test_.go, 对test表操作, 实现了具体的增删查改操作
-  ![alt text](/images/image-10.png)
+  ![alt text](/assets/images/image-10.png)
 
 - server/service/enter.go 文件, 将上面创建的ServiceGroup注册进上级服务组
 ![alt text](/assets/images/image-11.png)
