@@ -6,8 +6,8 @@ categories:
 tags:
 ---
 
-- 安装
-  `pip install django`
+- 安装  
+  `pip install django`  
   `pip install django-simpleui`
 
 - 创建项目  
@@ -21,6 +21,6 @@ tags:
 - 创建迁移  
   `python manage.py makemigrations`  
   `python manage.py migrate`
-  
+
 - 设置超级用户, 启用admin面板  
   `python manage.py createsuperuser`
