@@ -8,7 +8,7 @@ tags:
 
 - 安装  
   `pip install django`  
-  `pip install django-simpleui`
+  `pip install django-simpleui`  
   `pip install mysqlclient`
 
 - 创建项目  
